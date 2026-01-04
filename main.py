@@ -85,9 +85,12 @@ def main():
         print(f"data is saved in 'person.json' file: {data_saved}")  
     except FileNotFoundError as er:
         print(f"File not found error, check your file path or existence: {er}")
+    except json.JSONDecodeError as json_e:
+        print(f"Invalid JSON: {e}")
     except Exception as e:
-        print(f"An error happens running your code. Check this: {e}")  
-    
+        print(f"An error happens running your code. Check this: {e}") 
+            
 # Running the Driver function
 if __name__ == "__main__":
+
     main()
