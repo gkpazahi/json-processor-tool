@@ -1,0 +1,251 @@
+[{
+    "state": "Alabama",
+    "capital": "Montgomery",
+    "population": 200000
+  },
+  {
+    "state": "Alaska",
+    "capital": "Juneau",
+    "population": 32000
+  },
+  {
+    "state": "Arizona",
+    "capital": "Phoenix",
+    "population": 1680000
+  },
+  {
+    "state": "Arkansas",
+    "capital": "Little Rock",
+    "population": 200000
+  },
+  {
+    "state": "California",
+    "capital": "Sacramento",
+    "population": 520000
+  },
+  {
+    "state": "Colorado",
+    "capital": "Denver",
+    "population": 730000
+  },
+  {
+    "state": "Connecticut",
+    "capital": "Hartford",
+    "population": 123000
+  },
+  {
+    "state": "Delaware",
+    "capital": "Dover",
+    "population": 38000
+  },
+  {
+    "state": "Florida",
+    "capital": "Tallahassee",
+    "population": 200000
+  },
+  {
+    "state": "Georgia",
+    "capital": "Atlanta",
+    "population": 520000
+  },
+  {
+    "state": "Hawaii",
+    "capital": "Honolulu",
+    "population": 350000
+  },
+  {
+    "state": "Idaho",
+    "capital": "Boise",
+    "population": 240000
+  },
+  {
+    "state": "Illinois",
+    "capital": "Springfield",
+    "population": 115000
+  },
+  {
+    "state": "Indiana",
+    "capital": "Indianapolis",
+    "population": 880000
+  },
+  {
+    "state": "Iowa",
+    "capital": "Des Moines",
+    "population": 220000
+  },
+  {
+    "state": "Kansas",
+    "capital": "Topeka",
+    "population": 126000
+  },
+  {
+    "state": "Kentucky",
+    "capital": "Frankfort",
+    "population": 28000
+  },
+  {
+    "state": "Louisiana",
+    "capital": "Baton Rouge",
+    "population": 220000
+  },
+  {
+    "state": "Maine",
+    "capital": "Augusta",
+    "population": 19000
+  },
+  {
+    "state": "Maryland",
+    "capital": "Annapolis",
+    "population": 40000
+  },
+  {
+    "state": "Massachusetts",
+    "capital": "Boston",
+    "population": 700000
+  },
+  {
+    "state": "Michigan",
+    "capital": "Lansing",
+    "population": 120000
+  },
+  {
+    "state": "Minnesota",
+    "capital": "Saint Paul",
+    "population": 310000
+  },
+  {
+    "state": "Mississippi",
+    "capital": "Jackson",
+    "population": 160000
+  },
+  {
+    "state": "Missouri",
+    "capital": "Jefferson City",
+    "population": 43000
+  },
+  {
+    "state": "Montana",
+    "capital": "Helena",
+    "population": 33000
+  },
+  {
+    "state": "Nebraska",
+    "capital": "Lincoln",
+    "population": 290000
+  },
+  {
+    "state": "Nevada",
+    "capital": "Carson City",
+    "population": 56000
+  },
+  {
+    "state": "New Hampshire",
+    "capital": "Concord",
+    "population": 44000
+  },
+  {
+    "state": "New Jersey",
+    "capital": "Trenton",
+    "population": 84000
+  },
+  {
+    "state": "New Mexico",
+    "capital": "Santa Fe",
+    "population": 85000
+  },
+  {
+    "state": "New York",
+    "capital": "Albany",
+    "population": 98000
+  },
+  {
+    "state": "North Carolina",
+    "capital": "Raleigh",
+    "population": 470000
+  },
+  {
+    "state": "North Dakota",
+    "capital": "Bismarck",
+    "population": 74000
+  },
+  {
+    "state": "Ohio",
+    "capital": "Columbus",
+    "population": 900000
+  },
+  {
+    "state": "Oklahoma",
+    "capital": "Oklahoma City",
+    "population": 680000
+  },
+  {
+    "state": "Oregon",
+    "capital": "Salem",
+    "population": 180000
+  },
+  {
+    "state": "Pennsylvania",
+    "capital": "Harrisburg",
+    "population": 50000
+  },
+  {
+    "state": "Rhode Island",
+    "capital": "Providence",
+    "population": 190000
+  },
+  {
+    "state": "South Carolina",
+    "capital": "Columbia",
+    "population": 140000
+  },
+  {
+    "state": "South Dakota",
+    "capital": "Pierre",
+    "population": 14000
+  },
+  {
+    "state": "Tennessee",
+    "capital": "Nashville",
+    "population": 700000
+  },
+  {
+    "state": "Texas",
+    "capital": "Austin",
+    "population": 1000000
+  },
+  {
+    "state": "Utah",
+    "capital": "Salt Lake City",
+    "population": 200000
+  },
+  {
+    "state": "Vermont",
+    "capital": "Montpelier",
+    "population": 8000
+  },
+  {
+    "state": "Virginia",
+    "capital": "Richmond",
+    "population": 230000
+  },
+  {
+    "state": "Washington",
+    "capital": "Olympia",
+    "population": 55000
+  },
+  {
+    "state": "West Virginia",
+    "capital": "Charleston",
+    "population": 48000
+  },
+  {
+    "state": "Wisconsin",
+    "capital": "Madison",
+    "population": 270000
+  },
+  {
+    "state": "Wyoming",
+    "capital": "Cheyenne",
+    "population": 65000
+  }
+]
